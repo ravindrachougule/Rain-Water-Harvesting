@@ -1,5 +1,6 @@
 name: Rain-Water-Harvesting
 title: Rain
+version: 1.0.0
 start_page: index.adoc
 asciidoc:
   attributes:
