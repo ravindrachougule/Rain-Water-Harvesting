@@ -1,8 +1,0 @@
-= My Documentation
-:toc: macro
-
-Welcome to my documentation site!
-
-== Getting Started
-
-This is a sample documentation site created using Antora and AsciiDoc.

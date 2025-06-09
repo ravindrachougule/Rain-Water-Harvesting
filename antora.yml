@@ -1,8 +1,0 @@
-name: Rain
-title: Rain
-version: 1.0.0
-start_page: index.adoc
-asciidoc:
-  attributes:
-    source-language: asciidoc@
-    table-caption: false
